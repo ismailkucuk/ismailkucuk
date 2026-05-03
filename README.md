@@ -16,10 +16,10 @@
 
 ### About Me
 
-- 🔭 I'm currently working on **AI-powered full stack projects & freelance development**
-- 🌱 I'm currently learning **Flutter, advanced RAG architectures & cloud infrastructure**
+- 🔭 I'm currently working on **my own mobile app projects**
+- 🌱 I'm currently learning **Flutter & diving deeper into digital forensics**
 - 🤝 I'm looking to collaborate on **open-source projects, AI integrations & cybersecurity tools**
-- 💬 Ask me about **React, Next.js, Laravel, .NET, Digital Forensics**
+- 💬 Ask me about **digital forensics, building projects from idea to MVP, or anything dev-related**
 - 📫 How to reach me: **issmailkucuk@gmail.com**
 - ⚡ Fun fact: **I started in cybersecurity (breaking things) and ended up in full stack development (building things)**
 - 🎓 **Digital Forensics** graduate from Firat University
